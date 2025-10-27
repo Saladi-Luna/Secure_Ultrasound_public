@@ -1,6 +1,6 @@
 # Secure_Ultrasound_public
 
-**Anatomical Plane Classification for Fetal Head Ultrasound — Addressing Class Imbalance with Deep Learning**
+**Anatomical Plane Classification for Fetal Head Ultrasound - Addressing Class Imbalance with Deep Learning**
 
 This repository contains the datasets, results, and model predictions associated with our work:  
 **“Anatomical Plane Classification for Fetal Head Ultrasound: Addressing Class Imbalance with Deep Learning”**,  
@@ -52,7 +52,7 @@ for all five models using a learning rate of `0.0001`.
 
 ##  Citation
 
-If you use this dataset or results in your research, please cite:
+If you use this results in your research, please cite (will be updated once published):
 
 > S. Pravallika and M. Arora,  
 > “Anatomical Plane Classification for Fetal Head Ultrasound: Addressing Class Imbalance with Deep Learning,”  
