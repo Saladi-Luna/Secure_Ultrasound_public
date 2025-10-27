@@ -2,7 +2,7 @@
 
 **Anatomical Plane Classification for Fetal Head Ultrasound - Addressing Class Imbalance with Deep Learning**
 
-This repository contains the datasets, results, and model predictions associated with our work:  
+This repository contains the datasets, results and model predictions associated with our work:  
 **“Anatomical Plane Classification for Fetal Head Ultrasound: Addressing Class Imbalance with Deep Learning”**,  
 accepted for presentation at the **International Biomedical Instrumentation and Technology Conference (IBITeC 2025)**.
 
@@ -45,7 +45,7 @@ using a learning rate of `0.0001`.
 
 ### 3. `Brain Class Prediction`
 Includes Excel (`.xlsx`) files with **multi-class predictions** among  
-`Transcerebellar`, `Transthalamic`, `Transventricular`, and `Other (Head)`  
+`Transcerebellar`, `Transthalamic`, `Transventricular` and `Other (Head)`  
 for all five models using a learning rate of `0.0001`.
 
 ### 4. `Loss and Acc`
