@@ -34,7 +34,7 @@ All models were trained with a learning rate of `0.0001`.
 
 ---
 
-##  Data Description
+##  Folders Description
 
 ### 1. `Image Dataset for results/Phantom`
 Contains the **test dataset** used for evaluation.
@@ -47,6 +47,13 @@ using a learning rate of `0.0001`.
 Includes Excel (`.xlsx`) files with **multi-class predictions** among  
 `Transcerebellar`, `Transthalamic`, `Transventricular`, and `Other (Head)`  
 for all five models using a learning rate of `0.0001`.
+
+### 4. `Loss and Acc`
+Includes all the confusion matrix, loss and accuracy graphs for all the 5 models with 3 different learning rates = [0.0001, 0.001, 0.01].
+
+### 5. `Scan2.mp4`
+Real time implementation video on the best model (Model 1). 
+
 
 ---
 
