@@ -30,7 +30,7 @@ The study evaluates multiple convolutional neural network architectures trained 
 - EfficientNetB0  
 - EfficientNetB5  
 
-All models were trained with a learning rate of `0.0001`.
+All models were trained with a learning rate of `0.0001`, `0.001`, `0.01`.
 
 ---
 
